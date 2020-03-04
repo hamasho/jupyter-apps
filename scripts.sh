@@ -5,18 +5,41 @@ error() {
     exit 1
 }
 
+help() {
+    echo "commands: init, run-note, update-data, lab-setup,"
+    echo "          env-setup, clean, convert"
+}
+
 case $1 in
     init)
         virtualenv venv
         . venv/bin/activate
         pip install -r requirements.txt
-        # setup ipysheet for labextension
+        ;;
+
+    run-note)
+        . venv/bin/activate
+        set -a
+        . .env
+        jupyter notebook
+        ;;
+
+    update-data)
+        . venv/bin/activate
+        set -a
+        . .env
+        python update_data.py
+        ;;
+
+    lab-setup)
         jupyter labextension install @jupyter-widgets/jupyterlab-manager
         jupyter labextension install ipysheet
+        jupyter lab build
         ;;
 
     env-setup)
         ipython kernel install --user --name=venv
+        jupyter nbextension enable --py --sys-prefix gmaps
         ;;
 
     clean)
@@ -31,6 +54,7 @@ case $1 in
         ;;
 
     *)
-        error "available commands: init, env-setup, clean, convert"
+        help
+        exit 1
         ;;
 esac
