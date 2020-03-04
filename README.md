@@ -15,6 +15,32 @@ In this notebook, you can edit the spreadsheet and redraw the map
 
 ![Demo](assets/map-spreadsheet-app-example.gif)
 
+### Best Office
+
+This app is for finding the best office for weekly meeting in Tokyo.
+
+1. Set up office info
+| ID | NAME            | LAT       | LNG        |
+|----|-----------------|-----------|------------|
+| 1  | Fabbit Otemachi | 35.68457  | 139.769114 |
+| 2  | Fabbit Ginza    | 35.674116 | 139.770548 |
+| 3  | Fabbit Kyobashi | 35.679398 | 139.770954 |
+| 4  | Fabbit Aoyama   | 35.672858 | 139.726335 |
+
+2. Set up worker info
+| ID | NAME             | LAT       | LNG        | 
+|----|------------------|-----------|------------| 
+| 1  | Shibuya Taro     | 35.670114 | 139.703467 | 
+| 2  | Ueno Jiro        | 35.713456 | 139.777827 | 
+| 3  | Shinagawa Saburo | 35.627137 | 139.737408 | 
+| 4  | Toyosu Shiro     | 35.653881 | 139.796214 | 
+
+3. By selecting attending workers and the office,
+   the average commuting time, each worker's commuting time and
+   all routes are displayed in realtime.
+
+![Demo](assets/best-office-app-example.gif)
+
 ## Install
 
 ```sh
