@@ -43,6 +43,23 @@ This app is for finding the best office for weekly meeting in Tokyo.
 
 ![Demo](assets/best-office-app-example.gif)
 
+### Coronavirus
+
+This app is for showing a timeseries of coronavirus cases' related events in Japan.
+
+In Japan, we already have an excelent web portal [coromap.info](https://www.coromap.info/)
+for coronavirus related information.
+This site shows the statistics.
+But the author always tries to catch up Japanese gov's latest information
+and update the information.
+Even though I can check this very up-to-date and complete information on the webpage,
+I can't get structured information like JSON's event histories.
+
+So I parsed this website and converted it into [JSON file](coronavirus_app/resources/events.json).
+From this event history, I created a coronavirus related event time-lapse.
+
+![Demo](assets/coronavirus-app-example.gif)
+
 ## Install
 
 ```sh
