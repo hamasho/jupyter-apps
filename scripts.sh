@@ -1,5 +1,10 @@
 #!/bin/bash -e
 
+error() {
+    echo "$@"
+    exit 1
+}
+
 case $1 in
     init)
         virtualenv venv
@@ -18,8 +23,14 @@ case $1 in
         rm -rf venv
         ;;
 
+    convert)
+        infile=$2
+        outfile=$3
+        [[ -z "$2" || -z "$3" ]] && error "usage: ./script.sh convert MP4_FILE GIF_FILE"
+        ffmpeg -i $infile -r 5 $outfile
+        ;;
+
     *)
-        echo available commands: init, env-setup, clean
-        exit 1
+        error "available commands: init, env-setup, clean, convert"
         ;;
 esac

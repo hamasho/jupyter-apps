@@ -2,6 +2,7 @@ Jupyter Apps
 ============
 
 Investigate what I can do with Jupyter.
+You can check working notebooks by [binder](https://mybinder.org/v2/gh/hamasho/jupyter-apps/master).
 
 ## Apps
 
@@ -13,3 +14,9 @@ In this notebook, you can edit the spreadsheet and redraw the map
 3. Check the point is moved
 
 ![Demo](assets/map-spreadsheet-app-example.gif)
+
+## Install
+
+```sh
+./scripts.sh init
+```
