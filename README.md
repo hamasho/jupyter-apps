@@ -49,9 +49,10 @@ This app is for showing a timeseries of coronavirus cases' related events in Jap
 
 In Japan, we already have an excelent web portal [coromap.info](https://www.coromap.info/)
 for coronavirus related information.
-This site shows the statistics.
-But the author always tries to catch up Japanese gov's latest information
+This site shows very rich statistics.
+The author always tries to catch up Japanese gov's latest information
 and update the information.
+
 Even though I can check this very up-to-date and complete information on the webpage,
 I can't get structured information like JSON's event histories.
 
