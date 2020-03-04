@@ -1,0 +1,580 @@
+- bounds:
+    northeast:
+      lat: 47.43739240000001
+      lng: 8.537501299999999
+    southwest:
+      lat: 46.200361
+      lng: 6.1006225
+  copyrights: "Map data \xA92020 GeoBasis-DE/BKG (\xA92009), Google"
+  legs:
+  - arrival_time:
+      text: 9:58pm
+      time_zone: Europe/Zurich
+      value: 1583355510
+    departure_time:
+      text: 6:11pm
+      time_zone: Europe/Zurich
+      value: 1583341918
+    distance:
+      text: 283 km
+      value: 282506
+    duration:
+      text: 3 hours 47 mins
+      value: 13592
+    end_address: "Bauherrenstrasse 32, 8049 Z\xFCrich, Switzerland"
+    end_location:
+      lat: 47.4000284
+      lng: 8.5000241
+    start_address: "Chemin du Grand-Champ 11, 1219 A\xEFre, Switzerland"
+    start_location:
+      lat: 46.200361
+      lng: 6.1006225
+    steps:
+    - distance:
+        text: 0.3 km
+        value: 329
+      duration:
+        text: 4 mins
+        value: 242
+      end_location:
+        lat: 46.2027051
+        lng: 6.1013147
+      html_instructions: Walk to Vernier, Grand Champ
+      polyline:
+        points: go~xG{ofd@_@d@c@j@o@v@m@y@qAyASW[a@_@_@eAkAKMYPe@`@
+      start_location:
+        lat: 46.200361
+        lng: 6.1006225
+      steps:
+      - distance:
+          text: 84 m
+          value: 84
+        duration:
+          text: 1 min
+          value: 65
+        end_location:
+          lat: 46.2009447
+          lng: 6.0999344
+        html_instructions: Head <b>northwest</b> on <b>Chemin du Grand-Champ</b> toward
+          <b>Chemin Nicolas-Bogueret</b>
+        polyline:
+          points: go~xG{ofd@_@d@c@j@o@v@
+        start_location:
+          lat: 46.200361
+          lng: 6.1006225
+        travel_mode: WALKING
+      - distance:
+          text: 0.2 km
+          value: 204
+        duration:
+          text: 2 mins
+          value: 149
+        end_location:
+          lat: 46.2023854
+          lng: 6.101574599999999
+        html_instructions: Turn <b>right</b> to stay on <b>Chemin du Grand-Champ</b>
+        maneuver: turn-right
+        polyline:
+          points: '{r~xGqkfd@m@y@qAyASW[a@_@_@eAkAKM'
+        start_location:
+          lat: 46.2009447
+          lng: 6.0999344
+        travel_mode: WALKING
+      - distance:
+          text: 41 m
+          value: 41
+        duration:
+          text: 1 min
+          value: 28
+        end_location:
+          lat: 46.2027051
+          lng: 6.1013147
+        html_instructions: "Turn <b>left</b> onto <b>Route du Bois-des-Fr\xE8res</b><div\
+          \ style=\"font-size:0.9em\">Destination will be on the right</div>"
+        maneuver: turn-left
+        polyline:
+          points: '}{~xGyufd@YPe@`@'
+        start_location:
+          lat: 46.2023854
+          lng: 6.101574599999999
+        travel_mode: WALKING
+      travel_mode: WALKING
+    - distance:
+        text: 3.6 km
+        value: 3583
+      duration:
+        text: 15 mins
+        value: 900
+      end_location:
+        lat: 46.2072193
+        lng: 6.1395357
+      html_instructions: "Bus towards Gen\xE8ve, Aub\xE9pine"
+      polyline:
+        points: _~~xGotfd@@Hd@a@XQxAiBZ]h@u@V]h@s@^m@?AP]J_ASy@]u@aAuBSY]]{@q@UQQSWe@Yu@Oe@Ma@s@}BSc@Qa@EKc@w@SWc@{@EUGKACOWUa@EIo@eAKQMQ]e@?E?IAGACCCCCEA]i@[gAAOAGAMAKEe@Ci@C[IoBAWIkBAeAA]GoB?CGq@Q}@Ka@Iq@EOQu@[_BGg@CMGm@COQkAEUCOACSqAKs@Ii@MiA[{BG_@Ks@OkA_@}BaAmHEYEa@FW`A_ENm@@@@??@@?@?@?@??A@?@??A@??A@??A@A?A?A@??A?A?APA\IB?pCeAx@g@ZOb@Uf@SXGVkBR_B@?@?@?@A@?@A@A@A?A@??A?A@??A?A?A?A?A?A?A?A?A?A?AA??A?AA??AA??AA??AA?A??AA?A?A?A?Ai@CSEg@MiBQoCW_DGkAMwBOeB[uEEk@Go@UgDc@}CSqACc@WwDE{@Ce@Gs@A]Ce@IcAEc@AKAIAG_@wCQsACO[_B[XA?QLY}@CKMUOYi@kAAAs@uAWU]a@L_@JYDKPc@?AN[L[W[
+      start_location:
+        lat: 46.202724
+        lng: 6.101361
+      transit_details:
+        arrival_stop:
+          location:
+            lat: 46.2072193
+            lng: 6.1395357
+          name: Isaac Mercier
+        arrival_time:
+          text: 6:31pm
+          time_zone: Europe/Zurich
+          value: 1583343060
+        departure_stop:
+          location:
+            lat: 46.202724
+            lng: 6.101361
+          name: Vernier, Grand Champ
+        departure_time:
+          text: 6:16pm
+          time_zone: Europe/Zurich
+          value: 1583342160
+        headsign: "Gen\xE8ve, Aub\xE9pine"
+        line:
+          agencies:
+          - name: Transports Publics Genevois
+            phone: 011 800 0220 2120
+            url: http://www.tpg.ch/
+          color: '#ffffff'
+          short_name: '7'
+          text_color: '#000000'
+          vehicle:
+            icon: //maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png
+            name: Bus
+            type: BUS
+        num_stops: 10
+      travel_mode: TRANSIT
+    - distance:
+        text: 0.5 km
+        value: 496
+      duration:
+        text: 7 mins
+        value: 431
+      end_location:
+        lat: 46.2106294
+        lng: 6.1421869
+      html_instructions: Walk to Geneva
+      polyline:
+        points: _z_yGmcnd@QSQSy@cAi@o@KMy@cAGGi@u@MMq@y@c@i@e@k@y@iA[`@KLMZCCa@_@WVU`@A?@BA@EGCHg@m@IIa@e@
+      start_location:
+        lat: 46.2072002
+        lng: 6.139586299999999
+      steps:
+      - distance:
+          text: 0.2 km
+          value: 183
+        duration:
+          text: 2 mins
+          value: 142
+        end_location:
+          lat: 46.20848110000001
+          lng: 6.1410886
+        html_instructions: Head <b>northeast</b> on <b>Boulevard James-Fazy</b> toward
+          <b>Rue Bautte</b>
+        polyline:
+          points: _z_yGmcnd@QSQSy@cAi@o@KMy@cAGGi@u@
+        start_location:
+          lat: 46.2072002
+          lng: 6.139586299999999
+        travel_mode: WALKING
+      - distance:
+          text: 0.1 km
+          value: 141
+        duration:
+          text: 2 mins
+          value: 121
+        end_location:
+          lat: 46.20946
+          lng: 6.142250000000001
+        html_instructions: Continue straight onto <b>103</b>/<wbr/><b>Boulevard James-Fazy</b>/<wbr/><b>Passage
+          des Grottes</b>
+        maneuver: straight
+        polyline:
+          points: _b`yGylnd@MMq@y@c@i@e@k@y@iA
+        start_location:
+          lat: 46.20848110000001
+          lng: 6.1410886
+        travel_mode: WALKING
+      - distance:
+          text: 42 m
+          value: 42
+        duration:
+          text: 1 min
+          value: 32
+        end_location:
+          lat: 46.2097322
+          lng: 6.1418702
+        html_instructions: Turn <b>left</b> at <b>Place de Cornavin</b>
+        maneuver: turn-left
+        polyline:
+          points: ch`yGatnd@[`@KLMZ
+        start_location:
+          lat: 46.20946
+          lng: 6.142250000000001
+        travel_mode: WALKING
+      - distance:
+          text: 3 m
+          value: 3
+        duration:
+          text: 1 min
+          value: 2
+        end_location:
+          lat: 46.2097525
+          lng: 6.141894199999999
+        html_instructions: Turn <b>right</b>
+        maneuver: turn-right
+        polyline:
+          points: yi`yGuqnd@CC
+        start_location:
+          lat: 46.2097322
+          lng: 6.1418702
+        travel_mode: WALKING
+      - building_level:
+          number: 0
+        distance:
+          text: 58 m
+          value: 58
+        duration:
+          text: 1 min
+          value: 47
+        end_location:
+          lat: 46.2101486
+          lng: 6.1417435
+        html_instructions: Walk for 58&nbsp;m
+        polyline:
+          points: '}i`yGyqnd@a@_@WVU`@A?@B'
+        start_location:
+          lat: 46.2097525
+          lng: 6.141894199999999
+        travel_mode: WALKING
+      - building_level:
+          number: 0
+        distance:
+          text: 1 m
+          value: 1
+        duration:
+          text: 1 min
+          value: 31
+        end_location:
+          lat: 46.2101553
+          lng: 6.1417321
+        html_instructions: Take the elevator <b>up</b> to 1OG
+        polyline:
+          points: ml`yG{pnd@A@
+        start_location:
+          lat: 46.2101486
+          lng: 6.1417435
+        travel_mode: WALKING
+      - building_level:
+          number: 1
+        distance:
+          text: 68 m
+          value: 68
+        duration:
+          text: 1 min
+          value: 56
+        end_location:
+          lat: 46.2106294
+          lng: 6.1421869
+        html_instructions: Walk for 68&nbsp;m
+        polyline:
+          points: ol`yGypnd@EGCHg@m@IIa@e@
+        start_location:
+          lat: 46.2101553
+          lng: 6.1417321
+        travel_mode: WALKING
+      travel_mode: WALKING
+    - distance:
+        text: 274 km
+        value: 273506
+      duration:
+        text: 2 hours 46 mins
+        value: 9960
+      end_location:
+        lat: 47.3791188
+        lng: 8.5369989
+      html_instructions: "Long distance train towards Z\xFCrich HB"
+      polyline:
+        points: oo`yGosnd@CDWYuA}AEG[]q@y@}@eAgAgAk@_@YM{Ai@wE_@aBGsACg@B_@Bw@Dy@H_@Dm@Dc@B]BK@[B_ADc@Eg@CoAGc@Ea@KaBKUAI?o@GA?i@Go@A_AB}@@G?cBBs@@eABgBEu@?w@BY?]@S?m@@{@?M?wA?kAAy@G{@Mm@Mq@O[K_@Kc@Mc@MYIYIC?_@K]IWGYK_@Ig@O_AS[Go@KWCk@G}@EMAy@?_@?g@B}@BI@kBFkCLmBHa@@y@?u@Aq@Cq@Gs@Gy@OeASkBa@CAiAUaB_@CAaASo@Oa@IGCcB]aAQQCMCMC[Eg@Gm@EWC_@As@CyBG}BIgBIoAEgAEu@C{@Ci@C[Ay@C_AEy@As@@q@?]?E?o@?c@?e@?iEDeDBgBB[?e@?{A@kBBmB@e@@c@?aC@m@?Y?c@@]?i@?gAAQ?UAu@Eq@GCAe@Gm@K]Iu@Qc@Mk@S_@OsAm@m@[c@YIEs@g@i@c@s@m@OOOOQQ]a@]a@_@e@EGKMYc@a@q@a@m@]q@]q@Ug@Ym@Qe@Wu@Wu@CIKYaByFMc@Ws@IYEKYu@Yu@_@y@Q]Q_@]m@OWa@o@IMGKMQc@m@AAOQ]c@e@i@EEWW_@_@SSiA_AuAkAwAgAEE_@[c@]UQa@_@s@g@eAy@{@m@aAs@_Au@AA_Aq@GGu@i@SMGEi@_@UMm@_@QMa@SAA_Ai@oAq@cAk@eAk@_Ai@y@g@s@a@QMOGq@a@s@c@{@g@kAs@cAk@gAm@gCoAkFkC{BcAq@Wk@Om@Oa@Ik@Gw@Gm@A]AuA?U?W?W?cBBg@?M?g@?kC?kKBK?W?aA?a@?U@O?u@BeAH]FE@_@Fg@Ng@Ni@RSJ}Ax@e@TgBz@cDvAIDoB`AA?sDhBiA^g@La@HMBg@FoAPmANwAP]Fe@FA?iD\YDO@uAPa@Dc@Fc@FcBP_AJoC\eANwBViAJcCRq@@o@Ag@CmBQq@OSGu@Sc@Qo@W{@e@CAu@e@WQ]]aBcB]a@m@s@sAaBaBgBoDcECEq@}@s@eAMSQUaA{As@iAsD}Fk@_Aq@iAi@}@iCoEoCqEIKuC_FsA}Bi@{@yBqDsBgDeBwC_A}Am@_AcCcEACyCeFeAcB{@uAi@}@q@oAW_@g@w@KOkBkCOSYa@UWW[w@}@i@m@OQs@q@[]c@a@][k@c@][o@i@YQ[USM}@m@o@c@YOwBgA_@SSG]MWIeBm@GC_AWgBc@qA[iBa@sBi@yD{@k@Mc@K}A_@m@OSESGeAYeBi@KCcA_@{Am@ECm@WCC}@e@eAk@KIgAo@uBeAaAq@AA{Ay@eBaA_Ak@cAg@c@UeC{AcAk@OI{CiBgAo@cE_CkBeA_B_Ay@e@KGoBiAGCOIOKm@[g@YeAg@u@[EC_A_@{Ak@gA[s@UcBc@yA_@kAScCa@}B[e@IcAMuAQUGa@I{@I{@IiC]c@GwDg@wC[}B[iL}AwJkAcEg@aCa@uCg@kBc@gBg@uAe@gAm@IEaAg@g@WiA{@gBaB]]]]aLiNsBgCW[Y_@iDeEiAwA{CyDeEgFgEkFaJyK_AeAcLkL_DiCc@_@wC_CeEcDsDcCgG_E_GyDgFeDyDkC_FeD_@W{AeAs@a@qCkBaFeD]Ui@_@{CwBeCoByAmAs@k@y@s@IIcAaAu@u@m@m@QQc@e@mDcEa@c@aCuCa@g@yAiBmA{AmEsFOSi@o@}@gAGI[a@_BoBEG{AoBs@{@_@e@[_@q@y@[a@[_@W]kAsAMOwE}Fi@o@q@wAEG{@cAsA}AcAeAyAuAa@a@c@c@w@s@QKYSoBqAy@a@i@U[Me@Og@SSGiA_@o@Q}@Ui@Mk@MgAWiAW{@Ua@M_A[{@_@iAm@u@c@q@a@}@q@mAeAy@y@yA_B{@iAY]i@s@}@mA_@g@_@g@CG_BsBm@y@oAaBmH{JcDkEW]ACsBmCgB{Bk@m@{AaBc@e@qCiCoM_LuJuIyIwHgEuDa@_@YU[YeEkDmCaCgA_AcA}@iAeAeBaBgCiCsFwFkAmAuB{BCCaCgCuC{CgAkA{@aASUOOMOKIwB_CqAuAsIyIcAaAMK{@y@aE}DKMgDmDY[IIUU_FeFi@m@gSwSeCgCi@i@gDmDwAuAEGGGmFoF_EaEa@a@wF{FYY}@aAqBsBcBeByDwEqAoBc@o@e@{@m@gAA?}A}CWa@KUy@iBq@}AAEi@kAm@cBs@yBe@wAYw@Oo@qBaI_AqDiDmNwC}Lg@oBaA_EmA}EaAmDcAiDkBkGOc@Mc@IS{DiKoFgNQa@[s@GOmEeLSi@uBgFQe@KYCIcBiE_DgImD_JeAkC]_AQc@Q_@q@_BO[yA}CgAyBg@aAGM}CmFgAcBOSWa@aBgCeBqCQYQYmBaDQU}@mAo@eAkBuC_A{A{A_CkAiBcAcBIKi@{@i@{@Yg@MUKSs@iAs@gAs@gAaCwDAEMUMUq@kA[o@Q_@q@uA_@_A_@_Ag@wA?AQi@CGYy@IUOg@[}@Kc@Ma@Ka@Wy@WcAAGOm@UkAS{@UcAScAEOQ{@Q_AI]AMCMOcAMaACMKy@SqAAGQ_AQiAUgAMs@UeAAEc@gBYqAK]I]w@mCOe@[cAs@qBk@_Bq@aB_@}@k@uA_@{@g@kAM[_@y@a@eAk@{AOa@[{@aA_Dk@uBWcAOk@[uAa@sBSmAQcAQiAcA{HOeAWcCIo@EY[sCYyB]{CGg@QeBK{@Ei@Gk@QiCEa@Em@OcCIaC?CI}BCkACuAAkB?aD?uA@mA@K@uADmB@a@@e@LoCBo@@MDaABe@ZkFL{BFmAFeAHgBDy@BqABaA@{@@yA?cCCyAAcAEkBEiAM}BG_AEs@C[CWM{AK}@MgAIm@Ik@w@wFgAwHu@oFsAiJWiB?CEa@Ee@G_@Ea@CSC[My@SwAGg@Iy@Go@w@uFkCaR]eCWgB_@kCUaBMiAE_@C]CQIu@WiBc@{CGe@U_B_@uBIa@Kq@?AG[EYIg@Gk@AISmBM}AC[KcBMmBKwBAWEaAKqCCk@Ck@[uHA[AWAs@A_@AaE?uBDwA@s@@O?WHeBPuDd@{I@YB]@WRmDFsAZuGViF^gHXsFd@aJJ{A?Kh@aKRwDFqANaDFiAHiAPkDJiC@S@MByA@i@DiC?qA?]?_@CuB?WAg@EgAEcBKoBMkB]mE[qBOeAk@sD{@{EeAqFi@oCoBaK}@oE{@wE}@eE{AsGo@_DeAcFyA_HIc@s@iCc@_BUq@Qc@AGe@gA]s@[m@aAiBm@gAsBqCiAsAkAmASUSQqFaFGEs@u@uGyGk@o@]]a@e@gB}B]a@[a@?AyAyBi@s@}@mAy@mAk@y@U_@u@yAqCqEqHgMmDgGuA}B{ByDMSKSq@iAm@cA]m@{@yAMUuA_CKOSYa@s@]m@a@w@m@eAAAaBuCaAcBa@s@k@iA{AoDc@qAUu@Uu@GQIUOc@K]Ic@I_@Ka@CSMg@Mm@O{@Oi@Mm@Kg@Mi@Ki@Mc@Mi@Mg@GQK_@Oe@Si@Ka@Si@Wo@Qc@[w@Q_@Yi@CGQa@Wa@]q@]i@q@cAEGIMMSq@{@UYUWWYSWUUYYc@_@c@a@o@g@a@YYUa@UGEWOEEc@Uc@W}@c@e@WYOi@Yq@_@QMMGMIYM[SSKy@e@SKEAy@e@k@[w@i@A?OIKIYQYU[SSQMKQKOKKKOOOKOMIIEGGESQOMMMWUSUSSOOKMAAMOUWMMQQMSOOOSWYMQW[Y_@_@i@s@eAc@o@e@y@{@sAIOQ][i@We@CEUe@Ye@Uc@OWuAiCACsB_EYo@e@}@m@oAi@gAa@y@AAa@y@c@_Ac@aA]y@Wk@KWM]Wo@i@uAc@uAa@oAQk@Ok@AAc@yASs@Ka@EKe@}AK]Qk@IW[aAKUm@kBg@yAk@aBk@aBk@_BW{@g@uA?Ag@yAe@sAIWk@_BCKEMGMK[_@cAI[Qi@Um@Oe@i@{Ae@yAg@wAm@eBaAsCWy@Sk@CE_@gAe@wAk@_Bg@{Ae@sAi@aBe@sA_@eAg@yAe@uAc@sA[_A]eA_@mAa@uA]gASo@IWGSMa@IWSq@CMEMAACOMa@Og@Ok@Kc@o@aCOe@?C[iAU}@[mAg@mBWeA[oAYoAOo@Ka@WmAu@iDc@wBWkAuAmHe@kCQ{@e@sC_@{Be@qCi@iDc@_Da@{Ce@kDAEc@aD_@sC_@qC[cCYiB[sBOy@k@qCGUe@yBSs@c@}Am@qB_AmC[}@w@kBiAcCq@wAWi@iAgC_AoB}@mB_BiD{@iBO]u@aByA{Ce@aAmAiCk@mAQ_@u@}Ai@kAUi@CEi@iAO[MYk@kAEIGMKSA?g@_Aw@mAc@m@s@}@m@q@u@u@aAy@i@a@sA{@a@UMI[Mq@WUIm@SAAkA]_A]]QICsBcAo@k@[WUUQQi@o@k@u@[e@Yc@_@q@_@y@O]MYM]e@uA_@qAWmAQ}@G]Kq@Gi@K{@IaAEk@Eq@CaACk@?g@?u@?ABaD?GFcBFu@HeAP_BPiAPaANu@h@qBf@cCl@aCr@oCv@aCxA{DnAwChBkEtAeDh@mA\y@BGj@qA|@wBlAuC`A{Bb@gAd@gAnAyC~BoFPe@l@{ARg@d@oAHQHQ~@eC`C}Gx@uBf@iA`A}BnAuCv@oB|BoF\w@x@mBBG~@yBb@eADIDKhAiCb@eAr@cBVm@l@wAd@kA`@gA|@gCt@{B`AeDxA}Fr@wCj@aC|@wDpAaFn@_C\qAd@qB|@qDZsA^}A^}AJc@Jc@\}A\}An@mC~@aEFWFSlAaF@GzAiG~AuGj@_Cj@oBn@oBr@iBt@aBt@}Ax@{AnAoBv@iAPYbBmCbAsAh@y@l@_AxAuBJQx@sAZq@b@}@L]Rg@Lc@XgAP}@RsALmAHy@Fs@TmBz@_Gf@oDJu@BQ?ERmA^_CHu@L_AHi@Jy@RiBDe@Fg@Fm@JaADa@Fc@@SLmA@WNeBHiALsADm@Fs@Fq@JeAD]Ha@BOJa@Vu@HSh@eAHQtAsBLQRYP[^i@LWh@u@DGf@w@@?NY`@o@`@y@Vk@Xy@JYNi@Lq@DWF_@VmANiARwBNaC?CBsC?cA@S?MEiBMoC?ASyBUaB_@uB_@gB]aBe@oCG]G_@]uCAKQsBImAIgBCq@AYGyC?[AmD?kC@sE?K?qB?KAwB?o@AoE?Y?W?K@m@AgA?]?[?{C?_C?}C?uD?A?yA?M?iB?W?Y?gB?eA?a@?uFAcJAqB?_@?_@?yM@oG?wE?y@?_@Ck@Ck@Es@I}@MgAQeBEi@AKCe@Ca@A_@?CEaAA{@?iA?C@s@D_ABo@FcA@EJaAJ{@BQHi@@GLq@Nk@BONm@X{@\_A\{@\q@d@y@h@y@PW^i@lF{HDEXg@^q@`@}@Vs@V_AFYP}@Jo@LiAFw@?GFaA@sA?kAAkAAeAEcBGwA?KGsACSEy@OkCEc@Cc@a@{GYmESyCAWCUM}BGgA?IEu@Cu@CiA?o@?Y?W@eAD_A@UBc@Dw@Fk@Hu@Hk@BSFa@Py@Ns@XiALc@Rm@JYDMZw@Xq@Re@zAmDlBkEPa@R_@\o@`@q@`@o@V[X]r@y@r@o@`@]j@a@@A`B_Ab@Ub@UvDqBn@YDC|BqA^U`@Sl@_@PK`Ai@HETSVWf@c@l@q@FI^g@b@s@d@w@`@{@Tg@Pc@HQJ]To@Tq@XeANy@DMBOX_BT}AH}@N}APcBPqAVqAT{@DOX_AVo@@CHQHS?ATe@Ve@HOV_@PWPUd@k@^_@XUb@]p@a@LGr@_@|@e@r@c@XUXUb@a@l@u@b@i@BCVc@NUHOTg@DId@iARk@J]T{@DMNq@L{@Hs@Hk@PoBFoBBuAA{AG{AAQOiBC[E_@C_@Ei@KaA[kCYsCs@iGU_C[mDQgBGm@SqBYeDGk@c@iEk@}F_AaJ]wDMaBGaC@}CFsAJcARyB^oBV_ABIXgA?Ap@_Cx@iCNq@@AXqAPy@?ANu@LoAB_@D_@J{AJcBJgBDu@^uGZwGTmBX{Bd@{Bj@qBj@uAhAyBn@_At@{@NQVWZ[X[TY`@m@T]Vc@Ta@P[N]Re@Na@L]Nc@Na@J[Lg@N_@Pa@R_@R_@Va@\e@X_@DGf@m@\]`@e@JKHKNQNQHMR]~@eBJOHMHKDQFS~@uCBKDQBUx@wFBOBO@SBW?S@mA?_@@q@?o@@E?G?OKoAOmBAMAOACCUAOCSGYAKO}@AEAGmAuDM[]k@KQa@u@e@k@[YgAqAoLaMc@c@QOkAu@iB}@kAa@}Bg@QEsCc@q@Q_AUWKmAu@a@]AAw@w@g@k@QSSYU]kAiC[aAYy@YkAQcAOw@G_@SsCKkBEmBAiDIuFMcEEi@Ee@Ci@AEIq@Gk@WuA[iBw@uC]mA_@iAaAaC{AuCq@gAiBkCm@u@]c@oC}BGE_Am@CC{@q@OKQKYUg@S]MCAa@Oc@MMGqBq@mA[OE]K_Cs@a@MOGu@Uw@Wo@S_AYiAa@cA]_@MSISIw@]o@]]S]Qe@[k@_@k@a@ECm@k@i@e@AAk@i@k@q@OQMQcAiAIK[c@k@w@GK]k@m@cA?Aw@wAa@}@CGc@gA_@cA[gAQm@UeAI]G][aBKu@SqAOkAGm@Es@I{@Co@K{CGgBAcA@w@@_C@KBeBFgBDiAB}B?i@?O?ECeDEoAMgBWoB[eBa@cBq@iCq@gBu@}Ak@gAw@mA}@gA}@eA}@w@{AsAiBeB{BsBaBwA}AkAaC_BeBqAwBuAkBsAkAw@iA{@a@a@]c@c@o@?A{@}AoAuBWe@aA{A[g@UWQUe@e@sB_BuCuBmBsAuAcAg@k@g@y@y@aBk@kAg@kA]gA_@aBUqAKy@Ge@C]MgBKoBOgBK_Ac@yBe@uBiAwEeAyD}@oCSi@c@qAq@gBaBqD_BqDIQs@cBg@uAc@{ACGQk@_BsFgBiG}@qC]_AEKg@_Au@eAk@s@a@c@g@a@KKaAm@aAk@qAk@aA[_Ba@_C[oAKq@Qw@ImAIkAG_@C_ACuAQ}@QaA]YQKGcBkAc@c@{@eAMQGSmAqBKUGMAEKYg@cB[mAc@sBg@uBYmASq@Sk@i@mAu@iA[c@m@u@GISUKMQKq@e@qAw@cAa@gBe@MAYC[EoABm@Fg@Fk@Fq@Ls@PuARy@H_BBK?oCAgDMgACCAsAEk@Ca@Aq@CiAGw@M_B[WIo@S{Ai@mBq@}@QeAGGAw@@m@D{A^k@POFu@^[X_@\]X[XGFA@{@v@WTMLOLyAtAGFq@dAS^k@hAO\EJ_@dAwBzDiB`CsAfAu@l@cEtCaCvBcCpB[Te@VUTe@TuBz@iBj@cDp@_DXi@F{BFc@AcACOAaCUaAQc@MGAICWG}@Wk@Qq@U_Bo@o@W]Se@[kBcAeAo@QKi@WUMa@UMCMESEc@QmAUiBQ_@CaFY}@Cc@CG?aADa@DiARy@VkAj@y@n@A@]^A@m@r@m@`AeA~BwC|GIP]t@y@fB[h@KP]l@c@f@WVc@Xo@`@s@^eAh@WLoGnD_@Tm@Z_Af@c@RSLEBoAZ_BNG@a@Bs@?aAMsD_AmBi@GAqA[uBe@IEeAa@o@]m@_@s@g@kAaAiCyBkAeAiBaBm@g@}@s@_@YSM_@S}@[UEWGi@G[?m@@E?E?_A@a@Bc@@G@aKj@mBLgBNA?gBHoBBY@u@E}@IcAYAAe@Uu@c@c@]_@]o@o@iAsA_@m@c@{@MUu@_B{AcDA?sByDk@cA[k@EGS[qAgBc@_@A?SQYMWM_@Si@Qs@OeAKgAC]@M@E?]DW@k@LiAXeBh@cAPC?uA@mAGsAYA?aB{@a@Wg@a@k@m@c@i@q@eAMUq@sAq@_BQa@i@cAS[SYq@k@{@q@KGuAw@sB_A]QeD}AoB}@wBwAcCaBiC_BkCuAmAk@k@Ya@Wc@]sAqAeG}F{@y@?AmAkA{A_BUUqAmAiAeAwAiAsBgBoDaDoZg]mGgHmImJ_H{H_HyHaG{GAAuB{ByC}BaDeCyEuDuFyEaCqBmCkB{FmF}@s@cEeDcF{DgDmC{BgB[WoKqIqEqDqCaCw@u@uBoB}GoGaA}@c@_@_@a@mBqBiC_BSMeDaBaCaAyBaAGCsCuAICYWWWuBaBsA_BAAo@}@m@gAg@mAIOk@mAyAgDaA{BOi@Qg@aA_C_A{AEIu@cAqAsAgGmFyAqAmJoIKI}@aAuAwAiCkCa@]_Ay@aAo@EC}BaAgA]UIcI_D}@]gDmAoBu@{EeB_Bm@oCeAuCkAsEiBeBy@y@k@}@k@u@e@qBoBs@u@q@w@AAmB_CgBuBc@k@_@YEEk@]}@a@}Bu@{@I_@G}@?_B@{B@sDJsJJkB[mA[uA{@kAkAqAyAu@{@u@y@w@w@qAeBo@cAoCgFGMcAmBqB_Es@sAcA}Ao@eAm@aAk@m@kA{@UOy@i@u@IgCiB}@c@_@Y}@m@k@e@QQUUk@s@u@iAq@iAS_@Uc@[u@AGGM}@yB}A}Da@cAoAaDm@}A_A_CO_@m@_BaAgCEOEU{B_Gq@iBe@iAo@gBcAgCuBwF{@{Bk@{AeBmEeCsG{B_GiAyCCEcAqCO_@_BkEq@eBqDiJ_GuO}AcEw@wBGOMWKWaDiIEKuBoFoFaNi@uA}@yBCIWm@_A_C}@_CiFqMuCoHO_@M_@}@_C_A_CmE}Ki@sA}AoDqAwCU]S_@oAgBSYgAsA_AiAKMUUQQmAcAaBoA{BwAmCsAyAq@aAg@g@SgAm@sCiBoA{@kAgA{BmBq@k@cEmDSScFgEsBsAkBiAkCsAuBkAuBqAaBoAsB_BsAmA{@y@CCk@o@_BeBOOKM]a@uB}BsA{AiBoBkBsBaCoC_@a@oC{CQUSUwA}AGIo@cAeAiBGKk@gA}@qBk@uAa@uAo@uBKg@Mg@e@cCe@oC[mB[oB?AKc@Y_BQ{@WsA[qAe@qBc@_Ba@yAq@qB[_AUq@_@}@iBmE}@kBkBeEQa@eAcCO]Q]cAwBO[sAuCm@sAm@{As@cBeAaCg@oAc@gAq@oBk@wBg@wBWiBc@gDOqBM{BGgAEaAAm@?IEyBCwB?I@_@Au@E_BCYGaAOeBKkAWiB_@kCQgAU_A_@oAIc@[gAc@mAa@eASi@Ui@Q[Sc@KSISu@gAACi@u@c@m@Y_@a@u@e@{@We@[u@[{@a@uAS_AQw@Iu@G_AIgAIuAAc@EkDN_CDe@NsAR{ABQ~@wFPmAb@oCf@cD`AaGv@eFZeDHsB?S@qBG{CKsBIsE@sA?aDFkBJ}AHyAN_E?U@c@BcJAcD?w@?aH?WAi@AICy@EiAU}CCSSqB]gCUwAq@{Cq@uBgAiC[e@We@OSsA_ByAsAo@a@IGwAq@gBq@]MgAe@i@UKESOyAaAkAy@cA_Ag@k@k@q@i@q@u@iAo@cAqAgCKWyAiDiC_GmA}C]eA[{@?AWaAQaAa@qBQqAKy@_@gDQoBOyAYkB]eBaA}D{A{FyAyFu@sC{@cD}AyFSy@u@qCaAsDY}@KW_@cASg@MW[o@a@o@GIYc@w@}@IGe@a@qA{@kCy@y@OmAMqA?qAJoATcAXkAl@i@Xs@l@kAnAm@r@w@fAcAtA_BvBORORq@~@i@r@MNaEjFcApAmAhAoAbA_DjBgEtBkAp@c@P{@XOD{@Ti@DgA@gA@mCa@SC}Ao@yA{@m@i@sA}AwA_C?Ag@cAi@cBm@aC]}BKgAIgAMgDIaEA]KwFAc@?y@GqDAmACsB_@}MMoBKmAe@sHAG_@cE]uCQgAo@gEc@wBOq@GYs@_Cm@aBk@gAKUg@cAiAcBMOcAqA{A{Bc@s@e@iASe@Wq@c@}A_@{ASqAY_COaBCc@Cu@CaB@kBBsANyBR}B\oCLiAP{AHkABs@B[Ds@?gA?oAGuAGw@Ei@Ce@m@cES}@K_@a@qAe@aBi@aBaA_DyCuJyAoEs@_BgAmBg@e@i@w@}@aBm@iAa@eAY}@G[W{@Uu@UiAM_AMw@COA]Cq@Ce@Ei@EuCAICkAC}AGiDG{CAgAE_D@[DsBDi@JyAHm@Fe@Hg@b@_C@Eb@sATu@p@_Bl@eA~AgCR_@\o@t@kBDMl@aBJc@Le@RkAF]BUBS?Cb@uCPmAVaABMBQF[b@yA^iAFMd@eAVe@t@oApAgCfAaCPq@Ps@\yA\{BNwB@]Dk@@YFaCAmBEaBSgB?AQwA]uB?A_@yAe@yA]aA_AwBi@wACGK[e@wA_@}ACOQsAE[UmCI_BCeBBiFAK?gB?a@?y@@cABmCCsBKaDYiD]_CY{A_@eB[iAm@iBSi@o@_BoAcDu@mBi@qBI]a@uB[gBIa@Mo@]cB[cAq@oBUc@]m@_@i@e@m@k@q@o@k@e@]a@WkAm@aBq@_Bk@]GQEUCc@G{@GUGu@Ac@B_@@a@Da@F}@Tg@Lq@ZoA^a@DcAHS?}@?uAIgAUmAUsAa@]Ua@Us@c@_@Ws@e@s@i@{@i@w@i@e@YuB_B[SeCkB[U[WoEkD}B{AgAk@eAg@e@Mu@KyAK]@gCFiDJkBFcED}@AiAEo@Ge@I]IOE_Bg@s@_@e@SAA_@Wa@U_BsAuAsASQIIaBwA[Y]YkBgBk@i@mAeAIKKKqAiAa@a@sBmB}BsBs@o@{AuA}AyAsAmAkAmAy@iA{@oAy@}ACE_@s@e@cAi@kAKUMWaAoB]m@_@s@y@iAo@w@u@y@m@q@i@a@q@g@gBoA[SeC}Aw@g@q@c@c@[}ByAqA}@_Ao@e@[_Ao@_Am@_Am@mEuCSMqCgByCmBeEoCQOGEWU}@y@_AaAw@gAm@gA]k@y@kBUe@eAoC}@uB]}@u@_BYi@[i@c@q@eAsAu@y@aAw@WSkA{@gCgBQMi@_@oCiBeAu@wAaAgD_C}AiAw@i@kCiB[Ug@_@uB}AGE_EgCcDyBUOiDaCu@i@kAw@WSUQoBqAqA{@MK]Y_@W_@Y_@Ye@[GE_@WqA}@c@Y_Am@[Sg@a@_@[o@m@[]GG]]CC]c@[a@y@gAoAmBcA{AkAsBACa@u@}@gB_AuBUq@Uk@}@}ByAuDaCmFEKkBoEk@qA_@_Aw@iB{@oBISc@{@OYi@{@OWQW_@c@UW_@a@WWcAy@KIqAgAwAgAiCqBsB_BAAmByAeBwAkAcAuAwAo@{@Ye@IOy@cBSk@Si@Y}@WmAQu@Ig@CIKy@M}@IkAGyAUyEO{Ce@aLKwBKkCO{CAa@Aa@IgBCm@KeBGu@IqAYkDYwCg@oFW_C_@qDu@_Ie@sEs@cHc@uEGs@QkBIy@c@uEa@kEu@sHUqCKuA?AG}@CsBJsPPeOHyH@iBBgB?_@?_@D}CB}CDsCH}AHw@Fs@Jy@Hs@ZcB^mBd@kBh@eBf@cBrA_Eb@qAxF}PbBwFDQbDiKh@}A@Cd@wAb@sBTsA?APaBFaADkAB}B?c@Ac@MaCIq@Io@Ii@Ko@Sy@CGQk@Oe@KWc@iAO[w@uBGOISm@uA]u@Ug@eAuBWk@}@kB_@u@Wk@mAiCwAeD[u@oBkEg@eAm@oAGKQc@q@qBEKw@eCk@gBsAwDsAkEwAgE]}@_BuEQc@[s@e@aA_@u@A?e@q@{@oA{AmBCCY_@Y_@[i@[i@Q]GQ_@y@]y@c@mASm@o@eBKWQg@Qg@_AoC[{@uAqD_AwB]u@eAoCEKs@eBo@_B]w@Wq@}@sBQa@Oa@Qa@Qg@Oc@_@mAKc@EOQy@O_AM_AIi@Gq@WyC[mD]aE_@eEGs@Iq@[wCAEGs@Q{@O{@EKS}@Y}@[y@e@eAq@kAk@}@m@s@_A}@YQ[Ug@[mAe@oBk@kAY{@Sg@SSM_@Sm@]k@c@u@s@]c@_@g@]e@Yi@m@gA[w@Y{@So@Mg@Qo@Mo@Ig@Ii@Go@Gg@Eo@Eq@IuAIgBGgAI{@WsBYiB_@{AY{@k@eCQc@Yi@[i@[k@SYIOg@k@u@o@{AiAgAw@{@q@u@u@Y[}@eAy@aBwAyESyASwAMeAG_AIoACs@?kAB}AB}A@MFsBL{CF}ARkCXiDLiBJmCFsBHeCDwBJqCBy@Bq@BcAJaCB_AJ}D@{@@}@?mCEsAAi@KmCIwCGiBCwAA{B@_BBcBBoC?kB@s@A{ACmBKmCUcDUuCO{BOcBAIY{DUgDSiCMuBCyBAwBDoBF}E@iBI_DOsBOwA]oB]cBm@wBGUGUYaA]cA_@y@MWQY]m@i@y@c@k@y@u@GG_@YWQg@[UMw@_@QGa@Ka@KaAOEA[CE?a@AA?y@?a@@{@Hm@JwATc@Fc@FC@]@I@]@S?m@CKA{@C_@Ec@KC?u@UMGc@Oe@So@_@s@k@iAaAaAy@CC][[YCAuAeAe@[{@e@cBs@y@[SIUKoAi@IEy@_@UKKEu@[WMkAi@a@O}@_@?Aw@]qAk@{Aq@}Aq@MG{@_@eAc@e@U}@_@iAg@WM}Au@aBs@QIqAk@u@[c@SaBs@a@SgBw@_@QaAc@cAc@{BcAIEcAe@a@QUKm@WaEiBoAk@}CuAoAk@aAa@y@_@iAg@q@Yy@_@{BcAcBu@{Aq@u@]cAm@q@_@k@[o@c@gA_Am@i@sA}AsAqBmAoBS]MWYm@eEgJcA{BUi@{@iBwAcDyAcDkAoCKUMYiFmLqB_EmAgC{DiHQ]Q]kBmDuAeC{DgHuByDMSgC_FaFeJyBaEMWMYi@cAWc@GKOYYe@CEeB_DaByCmGwLa@o@g@_AwAkCYi@s@qAiAyBoA{Bc@{@aBwC]m@_@q@}AuC[k@yC_Ge@{@iIgOWg@iAuBMSIOa@u@a@u@gAsBWg@iAuBaBwCWg@gCuEWe@Yg@We@Wg@We@We@aAgBo@mAWe@iDoGWg@aByCGMGMS[]s@_@o@]i@SU{B}Ck@y@k@cAuAiCsAcCqAaCg@w@]i@iA{A[g@[i@Wg@e@aA[_AQo@Qs@UiAKs@?CIq@AGIkAG}ACo@AQAU?W?Q@oC@[Bc@B]BYJw@Hc@DWF]J[HS^qATw@L_@Zs@La@Na@Zy@HSPc@FQFSDQDMHOJWJW^{@zBwEl@mANUZe@P[HMJWLYb@eAJUHS\_AFQNa@FSLe@FOBKJa@H_@Hc@Fg@Fe@Dg@Bc@@_@@]@w@DwD?o@Am@Ae@C]KyAAOASE_AASCYCYSeBUgBM}@Ge@g@yDE]Ie@Is@G]Ga@Om@EOMa@Se@[w@Qc@CEWc@a@s@a@g@MOIKWQUM_@Q[KUKCAQGQKCAc@I]SUKe@UcAe@YOQISMKGUMKGgBaAUMUMa@SUMu@_@IEIGa@SOIQI_@Sc@Sc@Sa@Qa@Qk@W{@YKCYGu@Og@Cm@CcBAqB?kBAW?YAc@CWCQCWEo@Os@WWIQIo@]KGSOSMKIi@e@SQII[WIKUUWUOOOOeAcAYYeBaBm@m@]a@c@m@_@i@a@s@Wg@Ue@e@kAUq@Uu@Qq@Mm@Ow@CG[}AgAcGQaACGIg@WuA]yBWaBWcBgAcHQaAuCiRyAwJgBoM]qBe@cD_@kC]_CQkAe@cDSyASeAAGYqAQo@Us@]}@Qc@MWGKGKOYQYGKSUW_@g@k@g@e@o@c@g@[a@S]OWEUIKCgA[u@IWAq@Co@@q@Fy@Lo@NMDMBEBw@ZkAh@gAd@y@Zk@RoAj@MDsB`A_Ab@YLoB`AwAn@yFfC_@R_@PqB`AaAf@y@^_@Pi@T{@^[Ps@VsAb@QFODmBd@wARmALQ@g@DwADkA?gACgAE{AQ}@OqAUoA[o@Uw@Wq@WyAq@i@YMIOIOS{@w@_AeAoAmAw@eAo@w@aAoAwAsBs@qAsAaCoA}BqAuCO[yAmDyAkD_B_EsAeDiBkF_@mAoAiEkCsKqC_OmAkI[sCkBgQs@kHk@eEIq@_AaHmAmGeBkJmBqHaBeGuAiEmBgFcBoEqB_FmCmFaCgE_DqFkEuGuAeBsCqDi@q@iCqC_AiA}HiHqKwHsJgGePwIgEyByCcBoEiCaCmAuCgB_Ai@_@SmC{AcEaC_BaA]QeDcBgDiBkBaAiAk@aBw@wAk@a@QUKcBo@o@Ua@OiAa@_A[{Ai@]Ko@SyBw@uDmA_AWmA]cCo@kCk@c@IaASaDg@uBY]CMAm@IaBOeAKsD]UAmBUwBY}Dq@u@OeB_@sA]aAW{C}@uCcAgDsAg@SaGuC}@e@_Ak@q@c@sCgBeBmAIGOKo@e@[WYUe@_@OM_@[KIgA_AQOOMSSy@u@s@s@[[OOi@g@a@c@OSa@a@i@m@g@i@qA}AQU_@c@e@m@m@w@i@s@KOo@}@]e@i@y@a@k@o@cAKOMSYe@Yc@e@y@[i@]m@o@iACGOWGMIOOYU_@_@y@OYGKUe@k@kAUg@]s@Wm@MYACWk@e@kA_@aAUg@GQUi@]}@m@_B_@eAmBkFwA_Ee@uASi@Sm@ACmAgDw@aCy@}BYw@e@wAcAoCy@aCISM]o@eBc@gAyAyDCEoB_FeAyBKUwCeGuAgCo@mA{@{AYa@a@q@OUsBiDaAqAmBsCmBgCUYsB{Ba@c@{BcCmBkB{ByB_@_@]Ye@a@][]W[WSQc@]]YSOKIQMg@]e@_@OK[WIEWO}CwB_@W_@W_DuBcAs@cBcA}AcAoAu@o@_@iGmD[Ss@a@qAq@{@g@{@c@w@a@sAo@gAg@{@_@eAc@{@]{@[{DsAYKuE_BMEMCOCcOkAyF]{CQeFa@sBMc@C_Lq@yBQG?[CgIe@uF]cBOgAMoAOgAOa@Gq@Ic@Ia@Eg@Ia@Ga@Ik@IyDk@uASQCg@IkAQq@Ke@G[Gq@K_C]{GcAcBW}AUqFy@kEo@cK}A{AS}Eu@o@K_C]y@M_Dg@gCa@}Cg@qAWs@MWEmCe@_@I_Dk@kDq@WEaGmAaASiE_AsA[wCo@k@OOEKCkAWoAY{@SmA[g@MGC]IuA]w@S{@Uy@SSGYIUGw@SaAWiA[q@Qo@SiBe@g@OqAa@qDeA{Ae@eCs@mBo@MCo@UeBi@eA]oBq@qBm@s@WyAe@iBo@}Ai@oBo@gA]qBq@w@WoAc@gBm@eBm@YIuBu@u@YwF{B_DuAg@Y{@a@mAm@[Qo@]oAu@gAq@]SwAy@aBgAcBkAkAy@oBwAuBcB_DmCkBeBKG[]kAiAgDkD}AcBeAmAuBgCm@u@Y]kAyAmA_BEGiAaBq@aAIKIKIMcA}Ac@q@{AaCu@mAmAsBqA}BkA{Bs@uAaAmBaAuBUg@m@sAEIs@aBYm@EKEIKW_A{BCCq@eBKY]y@s@mB_@cAo@gBoBcGaAaD_@mAq@}BMg@k@oBQo@_@{Aa@}AKa@Ia@a@}Ae@oBG]q@uC_@aB{@yDu@_Dg@sBcAaEYgA}@{CGUoAeEAGm@mBsA{Dm@eBCM{@}B[{@y@wBkAuC_@_Ae@gAeBwDCGsBmEg@eAGKEIeLqTIQs@qAmBiDYe@IOGMUa@wAwCMUy@{AkByDQ]]q@y@{ACEy@}AcAsBaCsEaAiBoBwD{AqC_B}CuAgCsAiCuAcCu@oAcByCkCiEkAiB}AeCIM}AeCwA{BkByCU[q@gAgAgBqNaUgBsCsDqFoFaIcFsHwKmPeCeEwDsHUc@i@iAeKgU}@uBAASi@aA_C_A{BUm@Og@a@aBK]M_@{@oCeA_EuAmFyAeGuA{GaA_Fk@eDO}@aA{Fm@qEu@mFUkCe@{He@{HO}C?IOeC[}DKoAI_AUwBQaBa@cDK_Ai@cEmEk`@{@qHmAwKeAcJqBuNqAgJIi@Ii@{@aGkDoVgKmt@qBqNa@uCWiBU_BYoB_@iCa@uCk@}DM{@y@{F[yBsAoJAKwAwJg@oDu@iFc@gDo@uEmC_PmC_PQiA}BsMyCaQsAiFEMyAmF{@{CiAqDk@eBIYmAoDq@iBsCqH]w@o@_B}BiFsBmEqB}DsB{DAAgB_DoCqE{@sAqAuBmCkE[k@kAsB}@_BkHqOaIwPO[wJwScGkMaBiDUg@{A_DkCmFcCsE}B}DgBuCOUeCuDwB{CiCgDyBoCgCuCMMcCiCmCmCeDaDcD}CqAmAsAqA]]}DuDYYkCgCaDyCe@e@qDkDsCoCw@u@eBaBsCqCeCiCaEwE{AmBcB{B{AuBe@q@_AyA{BqDmAsBeAmBeAsBgAwBkAiCm@qAw@eBcAcCqBkFi@yAiA_DaBsFeAoDQm@}@}CI]G]gAsE_@}Ao@mC_@sB_A}EgCiPG_@gBmMIq@QcAQmAg@yCg@sCG_@IYWwA]aBEWGW]_BOo@GYGUOq@w@aDsFgQkGgQ}FsLmHwNuDgFsJcM}McNkL_JuHgE_@U_E{Bg@Qa@OgOqFeKeC}LoB}MwAoNo@sGEm@?}QB{EOG?qCUuIkBiFeBsAm@o@[eAk@QKsA{@wAaAyAkAkC_CuB}BQQQS_AkAe@k@s@aAe@s@SYCEU_@Yc@m@cAg@}@m@iAOWcAwBa@aAc@aAM][w@GMK[M]EMWq@a@oAe@}Ae@yA[gAi@oBOg@Ma@c@yAuBoHqCoJMg@Uu@[gAW}@e@}AGSQq@W{@Qk@Qm@Ok@Qi@Qk@Qm@Oi@Uw@Uy@Qi@W_AW{@u@oC[iAS{@AGOi@WiA]yA]aBI_@q@gDg@qC?AQaAMw@Ki@SoAa@_Ce@uCa@aCWyAEY_@sBKo@S_AYsAWgAW}@U}@[cASm@Oa@Oc@]{@Qc@g@kAMYk@iAS]Q[a@s@_@q@k@y@o@_A{@eAs@u@q@s@q@o@ECm@i@o@e@w@i@a@WKEQMQIOKSIQKOGMIUKC?qBy@_Cw@}@UMEOCOEc@MA?i@KSEaAOMCSCSECA}@KC?SAOCc@EA?}@EGAWAKAe@CQ?mAAgBE_@Aq@?m@Ao@CsBIYAq@G}BQC?mDYC?mAIsASOCiMuCECeA[}@[a@OEAg@Qo@Us@WgAc@_Aa@cAe@{@c@g@Yw@c@CAUM[S{@k@w@g@q@g@MI]Yi@a@y@m@i@a@GGc@]u@o@k@e@c@]]Yi@c@a@Y][q@i@u@m@m@g@u@m@s@k@a@[a@_@SOgKmImAgAs@o@_@_@EESUc@g@{@cAMOKOiDaEy@cAwAyAUSWU}AoAEEeAs@i@]kAm@SMsAk@aA_@KEw@UUGg@Oo@Ma@E_@G_BMqA?kBJWFo@Lu@RmC|@ODQFuBl@iATw@HgAD_BIgAIeAMmD]IAIAOAA?eAUeAQ}Ci@iFg@wC[oCWu@Oa@GmCm@UGk@Sa@M}Au@eAy@m@o@u@_A_AcBm@oAw@iBsCcH{CoHo@_Bs@iBk@eBc@sAQo@Sw@[_BU}AI{@IaACo@Co@EmB?I@{AFqA@S@S@QFs@Fi@Fk@BOHo@Ny@R_AXiARy@p@qBb@aAd@gATa@pCqFhCwF|@{Bx@}B~@yCL_@x@aDDQDQd@_Cf@uCNaAPiAX}B`@_EXuD@U@Sv@wMl@}JbAmP@Sb@kHL}BVwDj@wJLmBLyAV}BTyAX_B\cBb@{Af@_BJ[J[nCcHtAaE^aAl@iBb@uAb@}AFYPy@^mBRaBZyCNaCFyC?oCGgDMyB[_DSeBk@yCk@gCoA}EkAkEWaAaBcGGSESqBmHa@}AaAqDwAqF_@uAeBoGkBeHs@kCsAiFU_Am@yBGWGUc@{Aw@gCW{@kCqI}AeFy@wCs@kCCIi@qBMg@EKy@}CeAwDGUcAyDGSGUaA{DeAaEEUGUkAcFa@gBg@mB]aAEMm@gBGM]_Ay@gBKQIQk@cA_@m@MSg@s@OUIKQWkAwAgAiAkAcAy@m@c@Y_Ak@{@a@kAc@wAi@uSmHcEyAMEKEgA_@wBw@a@O[KYKqCcAg@WOGq@_@EC}@m@y@s@SQQQcAiAu@aAMUYe@[i@m@oAc@aAq@kBOe@Qm@?AQk@q@_CUw@w@gCGUIS_BoFQm@yDgMgAqDACIUGWyA}Eu@gCcDoKs@{BwFcRw@iC}DuMiBeGq@aC[iAu@wCg@sBk@cC_AmEm@}C]oBg@yCu@oEu@eE[eB]sBMaAEYEYGe@k@qD_@yBqAcIo@iE[sBGa@e@sDGi@Ii@e@kD}DcXUcBeD}Tq@uDk@mDa@mC[kB_AkFmAqFKi@u@oDKi@Ou@YeBKo@Kq@k@eDGa@k@wDw@qGi@_FuA}PEu@sAyPOsBQuBUsCSaCCa@[{DOsBGy@Ew@w@sJU{CEk@Em@OaCImAGiAU}DG}@Ce@Eg@{@_Lc@gGI{@G{@WeDEi@Gk@Q_CSmCUoCEu@OaBOsBSkCYeDWkDQ{BWcDSgC[wDOuBOiBMcBMyA?GQqBOwBIeAGi@QaCW{CCa@MaBMcBOgB[cE_@yE_@qFa@oFOeBI_A_@uEAOM}A?CMcBAM]iEKwAq@qIcAoMg@kGa@sFEa@[cESeCCg@Eg@AOUuCOeBU}CGi@_@gEGg@Gu@OaBYuCAIi@kFu@}FE]cAwGq@}EGe@QwAMqAOiBKgAQkACOCWEWKwAKyAEu@[sFAQG{BCcACuA@}B?G@kB?QBuABu@Bm@F_B?GZaEPiBb@cDD]F]TuA\_BBMXsALg@d@}Al@gBn@qBJSjAmCN_@Zs@lAmBlAmBf@w@z@mAlAaB~@wAr@eA`AcBp@wA~@uBx@uBr@yBn@cCj@eCjFsVd@qB|DkQfBiILi@Lk@PcAn@kDHa@Nm@XsABOf@aCBMPw@Jc@Hc@R{@f@cCLq@VgALu@\_BBUDSH_@PaA`@yBLq@@I\oBLq@FYJo@XcB\_Bp@eDXkADQXkA\qAXcALe@Lc@BM\sAVmAJg@DU@MF_@PgAJeAD]Fq@BY?IHqADqABeA@c@?eA?k@EmBI{AK{AKyAO_BAK?KAKUaCMcBE[ASCU]sE[yDEg@YiDKsAEa@OkBOaBQyBCc@W}Ca@{EQmBW_DUmCOmBQiBGm@OgBAGYoDS}BAKKmAMyAKoAC][kD?C_A}KEg@U}BIaAK_AMaAQmAUqA?AQy@U_AU}@ACSs@So@[_A]y@AEi@iASc@Ua@_@q@k@}@k@u@[a@_@c@e@i@OOYWi@g@c@[o@c@e@Yk@]m@Wi@Ui@UwAe@gA_@iAa@_A]oAg@u@YoAi@oAi@wAo@wAq@}@a@MGy@a@uAu@o@a@e@[e@_@u@o@?A][[[c@g@W[y@kAe@s@IMYe@AC_AaBGQw@wAm@kAKSQ]Q]yE_JaB_DcBsC[q@e@}@k@eAsA}CaAeCs@_Ce@aBUaAWqAcB{IMq@[_BsAiHcAqFQy@o@kDESESeAsFqBgKqBeKCMcA_FG]GWo@oCa@mBKa@kAsFk@kCm@gCw@qCW{@Oi@ACi@}Aq@iBm@yAm@wAg@eAa@w@a@y@Ue@Wc@_A}As@iAQWi@y@gAuAc@k@e@i@MMOO{AaBs@s@{@w@a@][WkA_As@i@s@k@iA}@mAcAm@i@y@{@CCYYc@g@o@u@MOk@w@OSOU}@wAg@}@AAy@{As@yAg@mAe@sAe@qAm@sBUy@Sw@S}@e@}BOy@QcAOgA[oCQ}AQeCKgBG{AEcCCyA?yA?uA@eBDiDBeBBiBBuBBeB@}ABmABwAB_CBuB@c@@cBBsC?_CAgCAe@Cu@AUAa@GkAAe@C[Eo@C[C[Ei@I_AKcAO{AQyAYiCc@yDEY[qC]yC?C]yCc@wDW_CSoBWqCWqCsRwvBoRivBAMAKAKWkCkAqMeB_SiF{i@[cEMeBGw@_@}DCYC[YmC[{CI_BIoACYAU?QGcBBkC?a@@m@@q@NyBJiBPsC?CFmADe@JuAJcBBYFq@FaAHk@Hi@PgATgAViAVgAf@qBx@eDjAoEfAkEt@sCr@mC`@eB|@iD~@uD^wA^}At@uCr@mCLk@T{@l@_Cf@qBFUDSZoA`@iB`@{A~AoGt@}Cj@uBj@yBn@iCd@}AZoAL]v@yCf@sB`@cBb@eBBIXiAd@gBZkAT_A^wA\qAZmANm@Ts@He@BKFWXgA^yAVcA^uAXkAZiA\wA^sAXmA\qA`@}AV_AZoAZmALi@Ne@R}@ZmA\sAXiAf@mBDOH]Po@^yAVaA^}AZkAT}@XcAPm@ZiAXaARu@Vw@Ru@Ty@Rs@BMPo@@ET}@H]T{@ViARy@VeATaAT_AT}@Ty@Pq@@ATu@Rq@Ri@Pc@Xw@d@iAf@iAt@yA\o@b@u@BEXc@T]h@u@p@aAR[Zc@t@cADIz@oAh@w@T]\g@BEp@cAh@y@l@aANUHMh@w@fC}DpFoIZc@Xc@tOeVb@o@FI`@o@hFaIZc@l@{@pA}A|@aAp@s@f@e@POl@g@ROp@i@^Wj@a@p@a@HG`BaABA|A}@`@UzC}AzDoBzBcANI|CsAJEPI|@_@j@Wl@Yd@Wf@Y\YDCl@g@h@g@b@i@Z_@\e@Xe@Xe@P]Ra@Rc@Pe@Re@Lc@Tq@Le@Lg@Lk@Lm@Ls@Hk@Jq@J_AJcAN_BVaDVsCNiBPoBBOPsBPsBR}BP_CVgDPgCHkABe@NeBNeBLwABa@J_AL{AXaDL_BBSRqBTgCT_CNwBJqADaAB_ABoA@wA?yAAgACiAEaAEgAGoAMqB?EMiCMkCMkDG}BKeDKeCKcCQsEOsESsEIqBIqBKkBAc@Eg@Cg@OeDKiBCk@GoAK}BO}EIoCU{HC_BCgAAmAAwAAqAASCsCCqBKuEM_E?MGkBIqBAq@IaCEgAAs@EyBCiB@iB@wAHcBJcBNaBTgBT_BXaBn@aDPy@TkATkAf@cCd@cCd@_CVsAn@wDd@iCd@iC^}Bd@eCXaBLs@X_BX}APcAd@iCZoB\gBN}@^wB?ARiA@ENaAh@{Ct@cEVyA\kBd@kCZkBp@{Dr@}D^uB^wBPcATuA`@iC`@eCHg@Lw@Hi@d@kC\yBVaBT{AFi@RyAV_BT}ANaAb@aCf@sCZmBZeBb@gCP_AN_APmA@GFi@Hk@Dg@LkAHaAHaAFeAFoAHqBFiADeAD{@Bu@Dy@FyAHeAF_AFs@Fw@J_ANoAPkA\wB\uB`@eCZoBd@wCd@uCd@sCZkB\wBp@gEr@mERgARcARaATcAj@}Bp@oCn@mCl@aCd@oBj@}B\wAXkATaANw@TkAJg@RiARiAJm@b@eCPaAF]ZeBRkATkARmADc@F_@LcAJiAJeALiAFi@RgA\sB`@cCXcBZgBN{@P{@P}@TcAXcA^qAZcAZ_Ab@gAd@kAb@aATi@Nc@Ri@Ng@La@Rq@F[FSFYFYFY@GFYF_@P_A^yBNu@\iBfAqGF[TqALs@VuAX}AX}ABSHc@Hi@Fg@Fa@Jo@RoABMx@oEDB
+      start_location:
+        lat: 46.2106431
+        lng: 6.142161199999999
+      transit_details:
+        arrival_stop:
+          location:
+            lat: 47.3791188
+            lng: 8.5369989
+          name: Zurich HB Main Station
+        arrival_time:
+          text: 9:28pm
+          time_zone: Europe/Zurich
+          value: 1583353680
+        departure_stop:
+          location:
+            lat: 46.2106431
+            lng: 6.142161199999999
+          name: Geneva
+        departure_time:
+          text: 6:42pm
+          time_zone: Europe/Zurich
+          value: 1583343720
+        headsign: "Z\xFCrich HB"
+        line:
+          agencies:
+          - name: Schweizerische Bundesbahnen SBB
+            phone: 011 41 900 300 300
+            url: http://www.sbb.ch/en/timetable
+          color: '#ec0000'
+          short_name: IC 1
+          text_color: '#ffffff'
+          vehicle:
+            icon: //maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-train.png
+            name: Long distance train
+            type: LONG_DISTANCE_TRAIN
+        num_stops: 4
+      travel_mode: TRANSIT
+    - distance:
+        text: 0.2 km
+        value: 153
+      duration:
+        text: 3 mins
+        value: 185
+      end_location:
+        lat: 47.3797149
+        lng: 8.5375103
+      html_instructions: Walk to Sihlquai/HB
+      polyline:
+        points: ovd`Hgkbs@oB|@@@IC@GFYBQHe@He@MECWIACA
+      start_location:
+        lat: 47.3791188
+        lng: 8.5369989
+      steps:
+      - distance:
+          text: 1 m
+          value: 0
+        duration:
+          text: 1 min
+          value: 60
+        end_location:
+          lat: 47.3791188
+          lng: 8.5369989
+        polyline:
+          points: ovd`Hgkbs@
+        start_location:
+          lat: 47.3791188
+          lng: 8.5369989
+        travel_mode: WALKING
+      - distance:
+          text: 66 m
+          value: 66
+        duration:
+          text: 1 min
+          value: 60
+        end_location:
+          lat: 47.3796763
+          lng: 8.5366884
+        html_instructions: Take exit <span class="location">Zollstrasse</span>
+        polyline:
+          points: ovd`Hgkbs@oB|@
+        start_location:
+          lat: 47.3791188
+          lng: 8.5369989
+        travel_mode: WALKING
+      - distance:
+          text: 9 m
+          value: 9
+        duration:
+          text: 1 min
+          value: 7
+        end_location:
+          lat: 47.3797161
+          lng: 8.536701599999999
+        html_instructions: Head <b>north</b> toward <b>Zollstrasse</b>
+        polyline:
+          points: '}yd`Hgibs@IC'
+        start_location:
+          lat: 47.3796731
+          lng: 8.536676
+        travel_mode: WALKING
+      - distance:
+          text: 67 m
+          value: 67
+        duration:
+          text: 1 min
+          value: 51
+        end_location:
+          lat: 47.3796384
+          lng: 8.537488699999999
+        html_instructions: Turn <b>right</b> onto <b>Zollstrasse</b>
+        maneuver: turn-right
+        polyline:
+          points: gzd`Hkibs@@GFYBQHe@He@MECW
+        start_location:
+          lat: 47.3797161
+          lng: 8.536701599999999
+        travel_mode: WALKING
+      - distance:
+          text: 11 m
+          value: 11
+        duration:
+          text: 1 min
+          value: 7
+        end_location:
+          lat: 47.3797149
+          lng: 8.5375103
+        html_instructions: Turn <b>left</b> onto <b>Sihlquai</b>
+        maneuver: turn-left
+        polyline:
+          points: wyd`Hinbs@IACA
+        start_location:
+          lat: 47.3796384
+          lng: 8.537488699999999
+        travel_mode: WALKING
+      travel_mode: WALKING
+    - distance:
+        text: 4.1 km
+        value: 4119
+      duration:
+        text: 13 mins
+        value: 756
+      end_location:
+        lat: 47.4020101
+        lng: 8.499374099999999
+      html_instructions: "Tram towards Z\xFCrich, Frankental"
+      polyline:
+        points: ozd`Hwmbs@@IKE[MWKCAE?A?C@GBKLEDABILMRY`@uCjEKNUVe@t@eBlC{@lAm@|@Yb@{@rAw@fAA@eBlCy@jAEF_@f@ILKL_@f@_@h@IJ{BdDg@x@GLQ`@kBtCeAzAKP_@j@CDKPm@nAi@dA]z@[p@gAlBSZm@xAOVMTQ\Yh@u@lAYd@cEfGKNq@`AA@MRCFIBI@ICGEIKCCGAKAG?O?E?I?IC][{@y@c@a@IISS][YWECEAI@E@GHEDCDADADADA@Ml@Ib@CHCHCLO\i@r@KPgAfBqArBYb@m@fAWd@sCfFYf@M\MTGTIVGVCHE\ETC\Cd@A^?D?\AjAAb@AN?DG|@Gf@G\w@bEIn@I\Gb@AJSnBC`@C^APOjECv@GdCG`BIxAYhDSlAMn@e@`CWfA]|@a@dAg@hAoAzCcB|Dc@n@UXYJMDYDi@FC?MFQNGFO\Wv@O^k@~AwAbESh@c@rAUr@i@bBq@`CKZWv@Wh@O`@]tAADObAAHFD
+      start_location:
+        lat: 47.379765
+        lng: 8.5374
+      transit_details:
+        arrival_stop:
+          location:
+            lat: 47.4020101
+            lng: 8.499374099999999
+          name: Meierhofplatz
+        arrival_time:
+          text: 9:54pm
+          time_zone: Europe/Zurich
+          value: 1583355294
+        departure_stop:
+          location:
+            lat: 47.379765
+            lng: 8.5374
+          name: Sihlquai/HB
+        departure_time:
+          text: 9:42pm
+          time_zone: Europe/Zurich
+          value: 1583354538
+        headsign: "Z\xFCrich, Frankental"
+        line:
+          agencies:
+          - name: "Z\xFCrcher Verkehrsverbund"
+            phone: 011 41 848 988 988
+            url: http://www.zvv.ch/
+          color: '#f2c900'
+          short_name: '13'
+          text_color: '#000000'
+          vehicle:
+            icon: //maps.gstatic.com/mapfiles/transit/iw2/6/ch-zurich-tram.png
+            name: Tram
+            type: TRAM
+        num_stops: 11
+      travel_mode: TRANSIT
+    - distance:
+        text: 0.3 km
+        value: 320
+      duration:
+        text: 4 mins
+        value: 216
+      end_location:
+        lat: 47.4000284
+        lng: 8.5000241
+      html_instructions: "Walk to Bauherrenstrasse 32, 8049 Z\xFCrich, Switzerland"
+      polyline:
+        points: kei`H_`{r@CJCRZJLBB@J@H?HAVGFCJGLIVUV]BFFNNXHJHHHHFHHVLVLQLQLURc@FMFOL_@Pm@Le@
+      start_location:
+        lat: 47.4019827
+        lng: 8.499357
+      steps:
+      - distance:
+          text: 9 m
+          value: 9
+        duration:
+          text: 1 min
+          value: 7
+        end_location:
+          lat: 47.40202379999999
+          lng: 8.4992016
+        html_instructions: Head <b>northwest</b> on <b>Limmattalstrasse</b> toward
+          <b>Gsteigstrasse</b>
+        polyline:
+          points: kei`H_`{r@CJCR
+        start_location:
+          lat: 47.4019827
+          lng: 8.499357
+        travel_mode: WALKING
+      - distance:
+          text: 0.1 km
+          value: 114
+        duration:
+          text: 1 min
+          value: 76
+        end_location:
+          lat: 47.4010963
+          lng: 8.499517599999999
+        html_instructions: Turn <b>left</b> onto <b>Ackersteinstrasse</b>
+        maneuver: turn-left
+        polyline:
+          points: sei`H__{r@ZJLBB@J@H?HAVGFCJGLIVUV]
+        start_location:
+          lat: 47.40202379999999
+          lng: 8.4992016
+        travel_mode: WALKING
+      - distance:
+          text: 81 m
+          value: 81
+        duration:
+          text: 1 min
+          value: 62
+        end_location:
+          lat: 47.400652
+          lng: 8.4988236
+        html_instructions: Turn <b>right</b> onto <b>Rebstockweg</b>
+        maneuver: turn-right
+        polyline:
+          points: '{_i`H_a{r@BFFNNXHJHHHHFHHVLV'
+        start_location:
+          lat: 47.4010963
+          lng: 8.499517599999999
+        travel_mode: WALKING
+      - distance:
+          text: 0.1 km
+          value: 116
+        duration:
+          text: 1 min
+          value: 71
+        end_location:
+          lat: 47.4000284
+          lng: 8.5000241
+        html_instructions: Turn <b>left</b> onto <b>Bauherrenstrasse</b>
+        maneuver: turn-left
+        polyline:
+          points: a}h`Hs|zr@LQLQLURc@FMFOL_@Pm@Le@
+        start_location:
+          lat: 47.400652
+          lng: 8.4988236
+        travel_mode: WALKING
+      travel_mode: WALKING
+    traffic_speed_entry: []
+    via_waypoint: []
+  overview_polyline:
+    points: go~xG{ofd@uK}Df@_WoOu\oImlAxLkMyKqjAsP{]ie@wOmm@Ao{AeNiaAq@}f@kMi{@yhAs|@m\s}@vP_}@hCyhAyaBqj@yn@oz@eYsgA_h@oaAcMyo@wc@{yAcxAav@_i@e|@cfAys@}`@{mBgqBeiBakBegAuyAmkAipDqw@mqAqj@gkBaSqyAtAstA{a@}rDtKueCm_@{iC_dAkvAii@sdA_Pwd@k\cVoo@a{@}v@{{Bgw@slDuh@gbAma@ic@_@o[fVaw@zr@cdBfl@e{Bhe@gqAvJgs@lOws@wIq}DfQer@f@giAtNks@~h@_d@jOsj@nVsi@cKaoBbXgoAzS}^vBme@ex@ms@kEul@yWci@wh@sS{Yal@Uid@aS}k@ecAmdAof@ieBsr@u[gNy[uZm@ic@cFuQzGy]za@gg@~Icq@gMmTt]q[hOew@kZqd@e@kU{^qP_AuWaJ}kAg_Ag`EayDaa@kXgg@yp@a{Ag}@ir@aM{]}g@an@siAcsAckD}Zmn@_r@mf@sfAkgAod@cxAeTmtAoLyUkC_d@tH{}BcVcd@uXc[wf@qkBgN_HmP`Gkf@te@a]mKoFscAk\izAbBge@qY{x@HudA~Zq~@kKukAcMst@kPs\wo@uGyc@{Vkb@sC}v@w{@aeAgy@iYeb@oj@y_@ym@}i@ko@seAiSg\cEcz@cMklDf]egB_f@wlA_e@}eAmSceA}e@aj@oGob@{Uu_@|B{cB}HsrBe^oRcd@wPsu@o\kdAim@qtCotFck@uaAHwk@xQoc@_Dur@aXcT_f@{J}Zia@s_@k{BuNeJgU|Fsc@nSs`@h@mYyW{h@qpBmPw~@u_@_x@q~AciAywAii@soAwb@q}@i}Akz@uaBgx@kk@_aFyu@y_Dy{@siA_aAik@kpAsg@gdB_bAklBkoByjDkq@ceFggA{~GonBq~DqlBwuBgs@{jC_x@ejBq~@ql@m{AoKap@c\oO{Xs[ufAuVokAu\qb@wb@iG}_AqUop@oj@c[eV{\bC}j@cFwa@ah@qFab@~K}^f`@czC|Pwt@wSohAqn@e~BmLcYct@m]qb@op@uz@qfDil@{fEya@mrFqUmfCXikAnw@{cChRe_ApBuw@yMs_BaX_{@{q@{`@it@ibCob@gkA_i@uu@mCuaBkx@uyIwGmuB|bAu~Dho@_jBpeAutAti@wc@`NizAmDgkBuBqlBf[_fB~i@{{Dbk@glCxHis@m[p`@cf@dx@sKgDiRlg@eTtiAmPhf@~IuD
+  summary: ''
+  warnings:
+  - "Walking directions are in beta. Use caution \u2013 This route may be missing\
+    \ sidewalks or pedestrian paths."
+  waypoint_order: []
