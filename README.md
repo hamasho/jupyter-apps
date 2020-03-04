@@ -20,6 +20,7 @@ In this notebook, you can edit the spreadsheet and redraw the map
 This app is for finding the best office for weekly meeting in Tokyo.
 
 1. Set up office info
+
 | ID | NAME            | LAT       | LNG        |
 |----|-----------------|-----------|------------|
 | 1  | Fabbit Otemachi | 35.68457  | 139.769114 |
@@ -28,6 +29,7 @@ This app is for finding the best office for weekly meeting in Tokyo.
 | 4  | Fabbit Aoyama   | 35.672858 | 139.726335 |
 
 2. Set up worker info
+
 | ID | NAME             | LAT       | LNG        | 
 |----|------------------|-----------|------------| 
 | 1  | Shibuya Taro     | 35.670114 | 139.703467 | 
