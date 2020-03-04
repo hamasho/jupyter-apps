@@ -1,4 +1,5 @@
 # project
+sqlite.db
 
 # secure data
 .env
